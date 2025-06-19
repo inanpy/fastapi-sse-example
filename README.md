@@ -11,7 +11,11 @@ python -m venv venv && source venv/bin/activate
 
 2. Install dependencies:
 ```bash
+# Using pip
 pip install -r requirements.txt
+
+# Or using uv
+uv pip install -r requirements.txt
 ```
 
 3. Start the server:
