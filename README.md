@@ -50,6 +50,10 @@ You can test with this HTML snippet:
 - SSE is great for unidirectional updates like notifications or live counters.
 - For bi-directional communication, consider WebSockets.
 
+## 📖 Related Articles
+
+- [Real-time Notifications in Python using SSE with FastAPI](https://medium.com/@inandelibas/real-time-notifications-in-python-using-sse-with-fastapi-1c8c54746eb7) (A detailed article explaining how to implement Server-Sent Events with FastAPI).
+
 ---
 
 ### 🧑‍💻 Author
